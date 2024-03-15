@@ -2,6 +2,8 @@
 
 "use strict";
 
+var unusedVar = "double quotes"
+
 (function($, window) {
   var classVar = (function() {
 
